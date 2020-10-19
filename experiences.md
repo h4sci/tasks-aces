@@ -1,3 +1,4 @@
 Merge conflicts solved by:
-- create branch
+- create branch for everyone
+- discuss merge options
 - inserting spaces and lines while merging
